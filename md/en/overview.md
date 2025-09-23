@@ -16,7 +16,7 @@ Although the studio was born as a gaming studio, we also develop tools that save
 
 
 >### 🤝 Support the Project
->Want to support development? Follow us on [Patreon](https://patreon.com/...).
+>Want to support development? Follow us on [Patreon](https://patreon.com/NightLumStudio).
 >
 >### 💬 Join the Community
->Follow the news and chat with us on [Discord](https://discord.gg/...).
+>Follow the news and chat with us on [Discord](https://discord.gg/CftKPtxfZ3).
