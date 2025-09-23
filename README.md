@@ -1,7 +1,7 @@
 ﻿# SwiftDocs Documentation System
+![overview.png](Assets/overview.png)
 
 ## About the Project
-![overview.png](Assets/overview.png)
 
 SwiftDocs is a lightweight documentation system with multilingual support and a dynamic content structure. It is designed for creating technical documentation, guides, and API references, with the ability to switch between languages and themes.
 
