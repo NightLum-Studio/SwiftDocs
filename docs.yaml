@@ -1,0 +1,23 @@
+# Defines the documentation structure and navigation menu.
+# Each item represents a documentation section with:
+# - key: unique identifier for the section
+# - titles: localized titles for different languages
+# - file: markdown filename for the section content
+# - branch: parent section key (optional, for nested structure)
+# - detail: content for detail panel with optional color formatting ?{#color}
+
+- key: overview
+  titles:
+    en: Introduction
+    ru: Добро пожаловать
+    de: Herzlich Willkommen
+  file: overview.md
+  detail: "@[#fff5c4[Data:]] 14.09.2025 \n @[#fff5c4 [Author:]] NightLum Studio"
+
+- key: tutorial_1
+  titles:
+    en: Tutorial
+    ru: Туториал
+    de: Tutorial
+  file: tutorial_1.md
+  branch: overview

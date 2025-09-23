@@ -1,0 +1,18 @@
+  # Defines available languages for the documentation system.
+  # Each language entry contains:
+  # - code: ISO language code (e.g., 'en', 'ru')
+  # - path: directory path where markdown files for this language are stored
+  # - name: display name for the language selector dropdown
+  
+  - code: en
+    path: md/en
+    name: English
+    
+  - code: de
+    path: md/de
+    name: Deutsch
+  
+  - code: ru
+    path: md/ru
+    name: Русский
+    

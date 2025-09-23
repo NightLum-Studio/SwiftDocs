@@ -1,0 +1,17 @@
+﻿# Contains localized UI strings for the documentation interface.
+# Structured with nested keys for each UI element with translations
+# for supported languages.
+
+ui:
+  documentation:
+    en: Documentation
+    ru: Документация
+    de: Dokumentation
+  home:
+    en: Home
+    ru: Главная
+    de: Startseite
+  examples:
+    en: Examples
+    ru: Примеры
+    de: Beispiele

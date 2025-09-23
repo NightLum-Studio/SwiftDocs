@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VoxelEngine Docs</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.2.0/github-markdown.min.css">
+<link id="theme-style" rel="stylesheet" href="css/dark.css">
+</head>
+<body>
+
+<div class="sidebar">
+  <h2 id="sidebar-title" >Документация</h2>
+  <div id="menu"></div>
+</div>
+
+<div class="content-panel markdown-body" id="content">
+  <p>Загрузка...</p>
+</div>
+
+<div class="topbar">
+  <div class="logo">SwiftDocs</div>
+  <nav>
+    <a href="#" id="nav-home">Главная</a>
+    <a href="#" id="nav-examples">Документация</a>
+    <a href="#">API</a>
+    <div style="position: relative;">
+      <select id="lang-select"></select>
+      <div class="lang-icon" onclick="document.getElementById('lang-select').click()"></div>
+    </div>
+    <label class="switch">
+      <input type="checkbox" id="theme-toggle">
+      <span class="slider"></span>
+    </label>
+  </nav>
+</div>
+
+<div class="detail-panel">
+  <h2>Details</h2>
+</div>
+
+<!-- Подключаем библиотеки и внешний скрипт -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml/dist/js-yaml.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
