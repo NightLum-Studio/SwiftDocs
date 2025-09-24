@@ -101,7 +101,6 @@ Edit `docs.yaml` to modify the menu structure:
 - key: new_section
   titles:
     en: New Section
-    ru: Новый раздел
     de: Neuer Abschnitt
   file: new_section.md
   branch: overview  # Optional: for nested hierarchy
