@@ -5,13 +5,10 @@
 ui:
   documentation:
     en: Documentation
-    ru: Документация
     de: Dokumentation
   home:
     en: Home
-    ru: Главная
     de: Startseite
   examples:
     en: Examples
-    ru: Примеры
     de: Beispiele
